@@ -1,4 +1,5 @@
 #Built Binaries
+sourcery_g++_lite.tar.bz2 binary
 build/ binary
 cp430_fw_updater/cp430_fw_updater/libxml2/ binary
 code_mem_GNU.cpmem binary
