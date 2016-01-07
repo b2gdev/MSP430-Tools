@@ -1,0 +1,7 @@
+#Built Binaries
+build/ binary
+cp430_fw_updater/cp430_fw_updater/libxml2/ binary
+code_mem_GNU.cpmem binary
+code_mem_TI.cpmem binary
+code_mem_GNU_OLDCH.cpmem binary
+code_mem_TI_OLDCH.cpmem binary
