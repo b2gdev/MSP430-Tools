@@ -6,7 +6,7 @@ This repository contains the source codes of MSP430-Tools which are used by the 
 
 #### Build Instructions
 
-1. Unzip socrcery g++ lite (sourcery_g++_lite.tar.bz2 is provided in the repository)
+1. Unzip socrcery g++ lite (sourcery_g++_lite.tar.bz2 is provided in the release v1.0)
 ```
 tar xvf sourcery_g++_lite.tar.bz2
 ```
